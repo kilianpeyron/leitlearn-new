@@ -12,9 +12,11 @@ This new version has been completely rewritten with a much more modern and robus
 
 Check out the launch blog post: [Leitlearn Beta is here! 🚀](https://www.kilianpeyron.com/blog/leitlearn-beta-is-available)
 
-## Project status
-- Maintenance: no new features planned
-- Fixes: only critical issues if necessary
+## Project Status
+- New Features: I am currently working on a new, big feature for the project.
+- Major Overhaul: I am also leading a big revamp of the existing system.
+- Rebranding: In addition to development, I am contributing to a full rebranding effort.
+- Maintenance & Fixes: Existing maintenance is on hold, and only critical issues will be addressed if necessary, allowing me to focus on the large-scale feature work and overhaul.
 
 ## Contributors
 - Léo Trux – [LinkedIn](https://www.linkedin.com/in/leo-trux/?originalSubdomain=fr)
